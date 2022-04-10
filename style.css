@@ -1,6 +1,5 @@
 body {
   font-family: "Inter", sans-serif;
-  height: 900px;
 }
 
 h1 {
@@ -11,4 +10,7 @@ p {
 }
 button {
   font-family: "Inter", sans-serif;
+}
+a {
+  text-decoration: none;
 }
